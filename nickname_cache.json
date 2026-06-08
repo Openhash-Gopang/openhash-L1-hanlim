@@ -1,0 +1,307 @@
+{
+  "node": "KR-JEJU-JEJU-HANLIM",
+  "updated_at": "2026-06-08T00:00:00Z",
+  "count": 50,
+  "cache": {
+    "d0de2524099d3553b821268e4bbf24aec164379c50e85afe009e785eaeb4df65": {
+      "primary_guid": "dummy-boyoung-001",
+      "handle": "@보영반점#0000",
+      "lang_code": "ko",
+      "nh_v1": "c5db7e6184d3835bb6ce39d2002050b35f8ea5d34b7b84718f125483d413e71a"
+    },
+    "cdc904b2bf06bf228fed491442a0380949724826744192a5f8ad58d0c4e4d2df": {
+      "primary_guid": "dummy-hanlim-002",
+      "handle": "@한림중화반점#0000",
+      "lang_code": "ko",
+      "nh_v1": "7694801236c3f1cd7e2cd581b972ab5790863c3e5a444bdabbf581b3fda2f22d"
+    },
+    "353596382f577453ee46f01082018703e58da96f7ef871697d649a0d18df84c6": {
+      "primary_guid": "dummy-hanlim-003",
+      "handle": "@금능반점#0000",
+      "lang_code": "ko",
+      "nh_v1": "678b5e8ee400d9629d2da8fc45de59457ce3f84afd699ac8796d2cee7dd5f6e1"
+    },
+    "91a8c58e3c93ce8d029972f9169eeeb2d859eaa661db4427a2b94457e7fd85bc": {
+      "primary_guid": "17602039220a550829202666d04a7caa",
+      "handle": "@한림귀덕리음식점04#1760",
+      "lang_code": "ko",
+      "nh_v1": "7d20cc80cbb6e54e9b806d99f79c7209e004618da81b26b0e90507350bdf7615"
+    },
+    "e6292903647dad9a24772e0be42696b4d482b02e8f62b59c746dc680a0dfdc8f": {
+      "primary_guid": "496fefdad3ea70b661dc65bb5bb78b47",
+      "handle": "@한림금능리카페05#496f",
+      "lang_code": "ko",
+      "nh_v1": "9737bdd42335829fba575ee7471a5f90ef108112e7e651fbc9edb70d7a8bca58"
+    },
+    "4b5cc29e0d552525eeec52ee00fd2d494dd21dbb0f1354b0092b39220e69a0c1": {
+      "primary_guid": "78343e5614f30f648184d360d1f54f63",
+      "handle": "@한림금악리숙박업06#7834",
+      "lang_code": "ko",
+      "nh_v1": "6b33a992ebc01ab368d655755a7f589e4654ba6a15b7143c9dd9aeb90c1dc1a1"
+    },
+    "867f37a8d874665383c02033f27a6088b76674939765226a87880da4f719d5d3": {
+      "primary_guid": "b167f66243d28849ae0c21678c766c47",
+      "handle": "@한림대림리소매점07#b167",
+      "lang_code": "ko",
+      "nh_v1": "2074250c1a1b1f9e6c36373ba2d6dbf8ada7ea13f4db0f9ed487ac705680d7cf"
+    },
+    "50cf7121418705d912b229975c4fcbfa55b9ab5566144f270907214ec1194922": {
+      "primary_guid": "f0667a7cf280d1b631ba52e749957c8d",
+      "handle": "@한림동명리농업08#f066",
+      "lang_code": "ko",
+      "nh_v1": "dccec768ad2e0915b00a6056283ba857cfb6fb92fa24987b299d72c68793ef98"
+    },
+    "5f2f60a5afd27f3bdbaff0b7e16a8b3a75ffd1e26a6a869f6802417afd49ec58": {
+      "primary_guid": "94c34c61f5b0b568f809953eaed51a34",
+      "handle": "@한림명월리수산업09#94c3",
+      "lang_code": "ko",
+      "nh_v1": "234f8e34bb34092ca714f31e051b3f136355d577e88d9500c513e91b9f2e5bd3"
+    },
+    "604620d09a05ad1115a8aea3c906c5d2cdc01575feba95abd13edac4a978b42e": {
+      "primary_guid": "89b3fdb8576367fb9cf488b436b69232",
+      "handle": "@한림상대리편의점10#89b3",
+      "lang_code": "ko",
+      "nh_v1": "a51558b71160a206e39edb64ff1db8f620f15d75771a45fad5ad2009a48de0ca"
+    },
+    "4fe50b45abace600edf4b1baa324b54148090096dac42f49df588e5144a43297": {
+      "primary_guid": "58dbc9bb682fad3cd1520fc93a4d9356",
+      "handle": "@한림수원리미용실11#58db",
+      "lang_code": "ko",
+      "nh_v1": "b64b92fa11edd25314ce673311f21c0ae0c75b1d72cf99cfa6d4d64dc661b38e"
+    },
+    "588684cb4cf2911b39dc4b9154834c64b36baa9455ae7c4f2002860fcd99e65c": {
+      "primary_guid": "b999d4a411dfb45b75a33fb314eeab30",
+      "handle": "@한림월령리약국12#b999",
+      "lang_code": "ko",
+      "nh_v1": "ffd032e0af6f747dcb82b9e9363ced00563f4b3401d95392801cce8f1e84cfb1"
+    },
+    "b1311b5e395b1d23097e19396bbcba94b18f7b821e7ff91e2670e0168bb0b31f": {
+      "primary_guid": "6d1d3a4c386ba57e5799f8ad72b0f314",
+      "handle": "@한림저지리부동산13#6d1d",
+      "lang_code": "ko",
+      "nh_v1": "5a86540d128ee960bf13260336326746f8d4f005e773e55262a8ea47a080202d"
+    },
+    "ad1ab79da927b2d8c5443222671de709224f9fc236ceebb3eb5300cbb6c2a864": {
+      "primary_guid": "75bdea3e38b9d2b55fd57358ec830a9d",
+      "handle": "@한림한림리음식점14#75bd",
+      "lang_code": "ko",
+      "nh_v1": "1513e4116fd3634a54af58f9714f90c10560cdee47759bd94cbc1371b4b1d9eb"
+    },
+    "c96665a46eda1e8fb11dfe7da3c0b205da22c9695ee98a24d4543721ec513030": {
+      "primary_guid": "3c3b88afb5639d4c4f180068a2186582",
+      "handle": "@한림한수리카페15#3c3b",
+      "lang_code": "ko",
+      "nh_v1": "1a55e97dab0d5e70582daf776de873b2c82d94db237d7b9a877aa5f9f08858bd"
+    },
+    "0109150b99b69b895ab451c70af0425459c1d002c462baef0eb452ae0d14a6fe": {
+      "primary_guid": "c85bb415f4735f4a05fde6c03fbcb212",
+      "handle": "@한림협재리숙박업16#c85b",
+      "lang_code": "ko",
+      "nh_v1": "8a0222a0244967967ab9384199ccc9b5a41f133c77c233bcf2e887f6f7ba2f20"
+    },
+    "7c4a75a90c92b9bc14aaffb9f12cb7bf8c28509cc849c09a78c8212f92b2b8b2": {
+      "primary_guid": "a917808396d1742d7e979ac8657731aa",
+      "handle": "@한림옹포리소매점17#a917",
+      "lang_code": "ko",
+      "nh_v1": "ad3ab9709bd1bd6e451b36e572999476018cbbcb577db76eed3f131bc12f0476"
+    },
+    "62e317c281e3f8573d371335c25cc5c2c6155ff902508060144c24270a1cdfcc": {
+      "primary_guid": "9af713f6654730fab6acd68c4fb07b3c",
+      "handle": "@한림귀덕리농업18#9af7",
+      "lang_code": "ko",
+      "nh_v1": "f00de446ca442ff9973d64b1a28794c451d0604e7830d8b52a76d1dacda3be3b"
+    },
+    "b7e523e8e906f41e2ffe7b71b1b50dc8e0e6726a8d89b727c38ea2d9d9b48a60": {
+      "primary_guid": "df46a1fcea81112031e6872ef4161870",
+      "handle": "@한림금능리수산업19#df46",
+      "lang_code": "ko",
+      "nh_v1": "4b758514d11478a3a1bcf48b308da2909f5c0960dd1e9f13cba99cb3b808e2d0"
+    },
+    "82787a161b0cc1585dd76968e25e1d66088e362c92ce99c800d331d73ea60981": {
+      "primary_guid": "4ee3434fad649de084d6b0d490ce1ec9",
+      "handle": "@한림금악리편의점20#4ee3",
+      "lang_code": "ko",
+      "nh_v1": "6212aa79f2f244e69d58d1353cd5eb9b37bce0820c7c90af2bf93c3ece74eff8"
+    },
+    "7ad02a2842ed598f21b3bd2a9f9b5910fd4ac0bf64df7898d5feb0e80e0b6ea4": {
+      "primary_guid": "5ebf7a813726e67f40267f007c32bec2",
+      "handle": "@한림대림리미용실21#5ebf",
+      "lang_code": "ko",
+      "nh_v1": "e2d8d58e5a174e6e399ac25a56a24abc766e952b41c66de7904438ba6e945024"
+    },
+    "900a95fd5513da95e3d3c5601c07ae78ef44aba73155bf1ab5816177a755575e": {
+      "primary_guid": "eea0660961a860a756f2b1b969bb9dca",
+      "handle": "@한림동명리약국22#eea0",
+      "lang_code": "ko",
+      "nh_v1": "ca52c4a2661a802e487403bc033a09bb2bb730e9f6e6a391927805a16e5f836f"
+    },
+    "adf1ec5e4dc1ff155e83ef46e18289751bca7578f27c15985092ac3a4cea2c07": {
+      "primary_guid": "bb666df7f2c4ce8e0fa18966e6454056",
+      "handle": "@한림명월리부동산23#bb66",
+      "lang_code": "ko",
+      "nh_v1": "0ae3b1163b573111d9a6ae6bb5e173c3e6c2c2a2988ca4af53e9b6b00245def7"
+    },
+    "30cf1293bf5c9d3a03f5d7bb9df65ff94061d99d2e0bb593da742e217eca3f67": {
+      "primary_guid": "dcade758a725f1002a39ce7751fadf47",
+      "handle": "@한림상대리음식점24#dcad",
+      "lang_code": "ko",
+      "nh_v1": "87803e09f711d9673459d3553cbf96c6e3676bbeb16d892a0628ff58893ef886"
+    },
+    "d352602ea2b78dcd98736bfaeecc572430fd6141c055928be5c8a57c3578339d": {
+      "primary_guid": "7987427d96c06cc58c960f6981a97605",
+      "handle": "@한림수원리카페25#7987",
+      "lang_code": "ko",
+      "nh_v1": "80a5ff20b92fcab196d8e4b50d68298e74c91cdaa300fa5d51655abc42495b57"
+    },
+    "35f680c2c29b7db0781efca4854abd793715e36f730aece68a2bc8076cb677ac": {
+      "primary_guid": "751a2847ec0bf5eeba8e35fb05a95eb0",
+      "handle": "@한림월령리숙박업26#751a",
+      "lang_code": "ko",
+      "nh_v1": "7cbc8b7d7d388cd4fc7e008f0eb97d29d5050676dbbdb995c19e52dacb91a97b"
+    },
+    "68b39a70818404c6b719dba0dd50a54bf469fcaa50a150d89f1871bdc44c8272": {
+      "primary_guid": "5b80a447fea4a5c099780bce7aa3607b",
+      "handle": "@한림저지리소매점27#5b80",
+      "lang_code": "ko",
+      "nh_v1": "115b584d22f30c4c8bcea7565dfc958856cf174290d14cbdb037219c516c3bd7"
+    },
+    "f7427b0599a000fd0f06dfe2ac8ced29670ae7e40c2480e9070cdac9c9914e0d": {
+      "primary_guid": "5cc12d72eeb2be46b942d724849dbde4",
+      "handle": "@한림한림리농업28#5cc1",
+      "lang_code": "ko",
+      "nh_v1": "6d4baa6c15e7b553d7294218018062d38301409e06830f804cf6f7798096f740"
+    },
+    "fa83b491404288506b2c27764834b6fed4b83467890aee6704e44cc9dc664f51": {
+      "primary_guid": "2bef2100bd2211621681c4460518badd",
+      "handle": "@한림한수리수산업29#2bef",
+      "lang_code": "ko",
+      "nh_v1": "59b257892c47b0c115a184306be20d7e7cc59a7dc63abad1af46ee533a1708b5"
+    },
+    "3979869745481bb95156411eeffc08a723cc61205ddba2dd225116239d615e2c": {
+      "primary_guid": "cf6ba55b57faa04e93e972b19e1b7293",
+      "handle": "@한림협재리편의점30#cf6b",
+      "lang_code": "ko",
+      "nh_v1": "f30f4dc752568ce65c55e66f247f822fe8be37fd46343493bddcd95fe190c430"
+    },
+    "f7ee75c4c15b3801a38c410910a439f41e5530ad5731727b95ae4dfbc28f7c88": {
+      "primary_guid": "31acc10f44ce2c9098713a78b335a4f5",
+      "handle": "@한림옹포리미용실31#31ac",
+      "lang_code": "ko",
+      "nh_v1": "eb18e7d1aea590f7f9b21ed32d06a3bfd09537f04492bce5cb7d95a8ed548e41"
+    },
+    "4faee11db48841cfc99119d60aee7dd3b7ce6216e6d534bd09115c0c68512d9f": {
+      "primary_guid": "a306733686954b71f31d3ab00903bdbb",
+      "handle": "@한림귀덕리약국32#a306",
+      "lang_code": "ko",
+      "nh_v1": "58cec99acd64464d1c6828525b8a7706a928247dcb0d39827c6f12d1a58effc3"
+    },
+    "c8ebf2188be7ec79251e66a51b44817738683f780841ad21067f302c182829c3": {
+      "primary_guid": "77e38bb22045c4f4bff4ff2b95fb1176",
+      "handle": "@한림금능리부동산33#77e3",
+      "lang_code": "ko",
+      "nh_v1": "1718a730d47789a50600e8c46d99532d9f7c7ee3035287e0e73df6146d100f19"
+    },
+    "9a5dcbcfc5165d09666cf719fec6849cd12b103b307bb97d191a6e42508bb532": {
+      "primary_guid": "ab1eba64c8fea1f71ee8a0392762d211",
+      "handle": "@김민준1#ab1e",
+      "lang_code": "ko",
+      "nh_v1": "ddd2e8a5a70feaf44c8097070e2609f2cac5b37db9cdd132ad9f479705190be8"
+    },
+    "975bcb2f475b4c29efdde1e0eb043a8e9fb89ec17fad5e8a3080ec9f0ad30524": {
+      "primary_guid": "79141cd5234abf6e06de8fe0a6ef9ce1",
+      "handle": "@이서준2#7914",
+      "lang_code": "ko",
+      "nh_v1": "32d0dc26fe39d9257a0fb82091892bbf175091154e2315bb421f48afeb122e34"
+    },
+    "0ad71f99d8cc1053c074016e610884869527cbfa1d0f560742c4b5a036e420b9": {
+      "primary_guid": "03d6ef1f0cdad9e9edfde6ecdbdb2b5a",
+      "handle": "@박예준3#03d6",
+      "lang_code": "ko",
+      "nh_v1": "209991836eafe989ed22b83b059031438fadc4933122dcb2c3fc8c94b98273c7"
+    },
+    "931f9d343b99cb6d6a47d27914db3e3a102059277f18365c15fe254a2cebedd6": {
+      "primary_guid": "de7da7a122ee05817d3a1b652a57ec45",
+      "handle": "@최도윤4#de7d",
+      "lang_code": "ko",
+      "nh_v1": "8da0b4d5fae063af249205288aa30c86b0dd234458dce0c53cfb350b0cabbc12"
+    },
+    "afe09a5ed66229a95b46fd6a315f8168a34c4e9b8b7031b37b0aa1c52f7d8e03": {
+      "primary_guid": "b2c24d669f745e7f1c3b34cadc11c8ad",
+      "handle": "@정시우5#b2c2",
+      "lang_code": "ko",
+      "nh_v1": "3c36d6b509594d8941606319b743d09a26ddd8ad2d82b60a9bb81235914fb55e"
+    },
+    "20e4139fa28de5c3c2ba1d4b38041ff73b1f6f849361038b2e89e13f108d713c": {
+      "primary_guid": "844fc589e2de3058ba6fbf9108af590f",
+      "handle": "@강하준6#844f",
+      "lang_code": "ko",
+      "nh_v1": "d274b2dae8feeb0dbff6da85ebcd3792a96d7a2483327d0158b015dba986c776"
+    },
+    "42fbed9e61e262f6d8c427c75c13ed90f2a7410436e55e56bf8abafc7b04fc86": {
+      "primary_guid": "113c158abc2143024baf1a9c56e648ce",
+      "handle": "@조지호7#113c",
+      "lang_code": "ko",
+      "nh_v1": "2f3269f0f4d6e59df16ce8950f4f589bf02953ddb506c6d7467b5f087f268554"
+    },
+    "98c2b006e9adb620421d00d514206bbf13e4391d719ef97dafb0198bce0cb7a4": {
+      "primary_guid": "e81c709d99234975e7921ecda221c832",
+      "handle": "@윤은서8#e81c",
+      "lang_code": "ko",
+      "nh_v1": "17c7a9db311d4d49fac88f38baf50ea4f0db94731dbb3fe5459892acae144cd0"
+    },
+    "967911275ebc6eef040d4396b9bbdfb6c5e4509c689e343b40705f12558ad6a9": {
+      "primary_guid": "a17d3b48557de809c020b518e115b477",
+      "handle": "@장서연9#a17d",
+      "lang_code": "ko",
+      "nh_v1": "5a1b7592ff90725809dda8119a8570681f478726dd5b27ae933c21c31627ffde"
+    },
+    "eeff806fc4ac1091347009a697e5c0347328b84a56be18ef8a485ad9b484d14c": {
+      "primary_guid": "0a87b1a5ed0fe4eaa45335fa6102e6e8",
+      "handle": "@임수아10#0a87",
+      "lang_code": "ko",
+      "nh_v1": "ae493a26c93a5e6e79001eebc80c0f93cc3d333942548ee7b5210df353320957"
+    },
+    "56194e6d37514ada18f2341f8edc0583e4ab2dad3d505d784450512268cace86": {
+      "primary_guid": "df7d28eff0d0999ada8f4e5069228152",
+      "handle": "@김민준11#df7d",
+      "lang_code": "ko",
+      "nh_v1": "21e0c7ec2aba8683b467d92a880d47aec2b121841ccf6d84816e4c668c61be64"
+    },
+    "9d34d7398d8d193ca6eff035f05099fef152f94300b392faa064643b360c131f": {
+      "primary_guid": "f078c9136f1d6accfd373b5f0f535af5",
+      "handle": "@이서준12#f078",
+      "lang_code": "ko",
+      "nh_v1": "c4589de966c44876864d2c4cc131b603b3e0fa1d1366fa0dfe6d53a0d46886f3"
+    },
+    "ef9cc97159d789b2dae1effd6ec261ccfd403745ae80600a98f1dc051435b61f": {
+      "primary_guid": "7eb3e3d863f48ce1cc1673aa8863f3bd",
+      "handle": "@박예준13#7eb3",
+      "lang_code": "ko",
+      "nh_v1": "0a3746c4a9f14fba2d8b15b7df470bab13b5634f32025cab50374174a65edd1f"
+    },
+    "e064d2125df0938f299097d3802041860957185c8fc9a28e9f153ce64d078355": {
+      "primary_guid": "cff19a5ae2f8cd4eb5563f22316e3b6b",
+      "handle": "@최도윤14#cff1",
+      "lang_code": "ko",
+      "nh_v1": "f97f2c50c2f04ba42a062d05cdbc98294c41a74b8548229772c245181d64ed53"
+    },
+    "8e5493071ef66f733de49070c037b843da91bd4fb28229fff9135df75213949c": {
+      "primary_guid": "5cf65dd6a1e051b3f906746bfc31ca3b",
+      "handle": "@정시우15#5cf6",
+      "lang_code": "ko",
+      "nh_v1": "30efd07a15999cbcb09b6e24ced0e787238f353e40247f85e7896f90328a7a96"
+    },
+    "c417d04b0ef4a9b052e0174eddf48ec2681dbfb40af19c7933096307b642520c": {
+      "primary_guid": "b8b3d2bd0d0b07d4692ff699f683e536",
+      "handle": "@강하준16#b8b3",
+      "lang_code": "ko",
+      "nh_v1": "09caac156633566a0b79829bcaf7580e8b278238498bbb63d0bdbda4f5a0ea5f"
+    },
+    "92c0491e147e37f3ac3dbed59b381d4d4b1ca4e55cb3de9825ce759b65149dbc": {
+      "primary_guid": "f13386d8a047ff0f993b1e55ec5a3ccb",
+      "handle": "@조지호17#f133",
+      "lang_code": "ko",
+      "nh_v1": "bb0cf5a0c33ecfde1f825e0a3a856bf2c9ab7bdd5e8829f67f16c881cc434718"
+    }
+  }
+}

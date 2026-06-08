@@ -1,0 +1,307 @@
+{
+  "node": "KR-JEJU-JEJU-HANLIM",
+  "updated_at": "2026-06-08T00:00:00Z",
+  "entity_count": 50,
+  "routes": {
+    "dummy-boyoung-001": {
+      "current_ipv6": "2601:db80:bd05:0001::0001:0001",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "dummy-boyoung-001",
+      "name": "보영반점"
+    },
+    "dummy-hanlim-002": {
+      "current_ipv6": "2601:db80:bd05:0002::0002:0002",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "dummy-hanlim-002",
+      "name": "한림중화반점"
+    },
+    "dummy-hanlim-003": {
+      "current_ipv6": "2601:db80:bd05:0003::0003:0003",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "dummy-hanlim-003",
+      "name": "금능반점"
+    },
+    "17602039220a550829202666d04a7caa": {
+      "current_ipv6": "2601:db80:bd05:0004::0004:0001",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "org-hanlim-0004",
+      "name": "한림귀덕리음식점04"
+    },
+    "496fefdad3ea70b661dc65bb5bb78b47": {
+      "current_ipv6": "2601:db80:bd05:0005::0005:0001",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "org-hanlim-0005",
+      "name": "한림금능리카페05"
+    },
+    "78343e5614f30f648184d360d1f54f63": {
+      "current_ipv6": "2601:db80:bd05:0006::0006:0001",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "org-hanlim-0006",
+      "name": "한림금악리숙박업06"
+    },
+    "b167f66243d28849ae0c21678c766c47": {
+      "current_ipv6": "2601:db80:bd05:0007::0007:0001",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "org-hanlim-0007",
+      "name": "한림대림리소매점07"
+    },
+    "f0667a7cf280d1b631ba52e749957c8d": {
+      "current_ipv6": "2601:db80:bd05:0008::0008:0001",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "org-hanlim-0008",
+      "name": "한림동명리농업08"
+    },
+    "94c34c61f5b0b568f809953eaed51a34": {
+      "current_ipv6": "2601:db80:bd05:0009::0009:0001",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "org-hanlim-0009",
+      "name": "한림명월리수산업09"
+    },
+    "89b3fdb8576367fb9cf488b436b69232": {
+      "current_ipv6": "2601:db80:bd05:000a::000a:0001",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "org-hanlim-0010",
+      "name": "한림상대리편의점10"
+    },
+    "58dbc9bb682fad3cd1520fc93a4d9356": {
+      "current_ipv6": "2601:db80:bd05:000b::000b:0001",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "org-hanlim-0011",
+      "name": "한림수원리미용실11"
+    },
+    "b999d4a411dfb45b75a33fb314eeab30": {
+      "current_ipv6": "2601:db80:bd05:000c::000c:0001",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "org-hanlim-0012",
+      "name": "한림월령리약국12"
+    },
+    "6d1d3a4c386ba57e5799f8ad72b0f314": {
+      "current_ipv6": "2601:db80:bd05:000d::000d:0001",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "org-hanlim-0013",
+      "name": "한림저지리부동산13"
+    },
+    "75bdea3e38b9d2b55fd57358ec830a9d": {
+      "current_ipv6": "2601:db80:bd05:000e::000e:0001",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "org-hanlim-0014",
+      "name": "한림한림리음식점14"
+    },
+    "3c3b88afb5639d4c4f180068a2186582": {
+      "current_ipv6": "2601:db80:bd05:000f::000f:0001",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "org-hanlim-0015",
+      "name": "한림한수리카페15"
+    },
+    "c85bb415f4735f4a05fde6c03fbcb212": {
+      "current_ipv6": "2601:db80:bd05:0010::0010:0001",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "org-hanlim-0016",
+      "name": "한림협재리숙박업16"
+    },
+    "a917808396d1742d7e979ac8657731aa": {
+      "current_ipv6": "2601:db80:bd05:0011::0011:0001",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "org-hanlim-0017",
+      "name": "한림옹포리소매점17"
+    },
+    "9af713f6654730fab6acd68c4fb07b3c": {
+      "current_ipv6": "2601:db80:bd05:0012::0012:0001",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "org-hanlim-0018",
+      "name": "한림귀덕리농업18"
+    },
+    "df46a1fcea81112031e6872ef4161870": {
+      "current_ipv6": "2601:db80:bd05:0013::0013:0001",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "org-hanlim-0019",
+      "name": "한림금능리수산업19"
+    },
+    "4ee3434fad649de084d6b0d490ce1ec9": {
+      "current_ipv6": "2601:db80:bd05:0014::0014:0001",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "org-hanlim-0020",
+      "name": "한림금악리편의점20"
+    },
+    "5ebf7a813726e67f40267f007c32bec2": {
+      "current_ipv6": "2601:db80:bd05:0015::0015:0001",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "org-hanlim-0021",
+      "name": "한림대림리미용실21"
+    },
+    "eea0660961a860a756f2b1b969bb9dca": {
+      "current_ipv6": "2601:db80:bd05:0016::0016:0001",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "org-hanlim-0022",
+      "name": "한림동명리약국22"
+    },
+    "bb666df7f2c4ce8e0fa18966e6454056": {
+      "current_ipv6": "2601:db80:bd05:0017::0017:0001",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "org-hanlim-0023",
+      "name": "한림명월리부동산23"
+    },
+    "dcade758a725f1002a39ce7751fadf47": {
+      "current_ipv6": "2601:db80:bd05:0018::0018:0001",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "org-hanlim-0024",
+      "name": "한림상대리음식점24"
+    },
+    "7987427d96c06cc58c960f6981a97605": {
+      "current_ipv6": "2601:db80:bd05:0019::0019:0001",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "org-hanlim-0025",
+      "name": "한림수원리카페25"
+    },
+    "751a2847ec0bf5eeba8e35fb05a95eb0": {
+      "current_ipv6": "2601:db80:bd05:001a::001a:0001",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "org-hanlim-0026",
+      "name": "한림월령리숙박업26"
+    },
+    "5b80a447fea4a5c099780bce7aa3607b": {
+      "current_ipv6": "2601:db80:bd05:001b::001b:0001",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "org-hanlim-0027",
+      "name": "한림저지리소매점27"
+    },
+    "5cc12d72eeb2be46b942d724849dbde4": {
+      "current_ipv6": "2601:db80:bd05:001c::001c:0001",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "org-hanlim-0028",
+      "name": "한림한림리농업28"
+    },
+    "2bef2100bd2211621681c4460518badd": {
+      "current_ipv6": "2601:db80:bd05:001d::001d:0001",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "org-hanlim-0029",
+      "name": "한림한수리수산업29"
+    },
+    "cf6ba55b57faa04e93e972b19e1b7293": {
+      "current_ipv6": "2601:db80:bd05:001e::001e:0001",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "org-hanlim-0030",
+      "name": "한림협재리편의점30"
+    },
+    "31acc10f44ce2c9098713a78b335a4f5": {
+      "current_ipv6": "2601:db80:bd05:001f::001f:0001",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "org-hanlim-0031",
+      "name": "한림옹포리미용실31"
+    },
+    "a306733686954b71f31d3ab00903bdbb": {
+      "current_ipv6": "2601:db80:bd05:0020::0020:0001",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "org-hanlim-0032",
+      "name": "한림귀덕리약국32"
+    },
+    "77e38bb22045c4f4bff4ff2b95fb1176": {
+      "current_ipv6": "2601:db80:bd05:0021::0021:0001",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "org-hanlim-0033",
+      "name": "한림금능리부동산33"
+    },
+    "ab1eba64c8fea1f71ee8a0392762d211": {
+      "current_ipv6": "2601:db80:bd05:80001::0001:0002",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "per-hanlim-00001",
+      "name": "김민준1"
+    },
+    "79141cd5234abf6e06de8fe0a6ef9ce1": {
+      "current_ipv6": "2601:db80:bd05:80002::0002:0002",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "per-hanlim-00002",
+      "name": "이서준2"
+    },
+    "03d6ef1f0cdad9e9edfde6ecdbdb2b5a": {
+      "current_ipv6": "2601:db80:bd05:80003::0003:0002",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "per-hanlim-00003",
+      "name": "박예준3"
+    },
+    "de7da7a122ee05817d3a1b652a57ec45": {
+      "current_ipv6": "2601:db80:bd05:80004::0004:0002",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "per-hanlim-00004",
+      "name": "최도윤4"
+    },
+    "b2c24d669f745e7f1c3b34cadc11c8ad": {
+      "current_ipv6": "2601:db80:bd05:80005::0005:0002",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "per-hanlim-00005",
+      "name": "정시우5"
+    },
+    "844fc589e2de3058ba6fbf9108af590f": {
+      "current_ipv6": "2601:db80:bd05:80006::0006:0002",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "per-hanlim-00006",
+      "name": "강하준6"
+    },
+    "113c158abc2143024baf1a9c56e648ce": {
+      "current_ipv6": "2601:db80:bd05:80007::0007:0002",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "per-hanlim-00007",
+      "name": "조지호7"
+    },
+    "e81c709d99234975e7921ecda221c832": {
+      "current_ipv6": "2601:db80:bd05:80008::0008:0002",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "per-hanlim-00008",
+      "name": "윤은서8"
+    },
+    "a17d3b48557de809c020b518e115b477": {
+      "current_ipv6": "2601:db80:bd05:80009::0009:0002",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "per-hanlim-00009",
+      "name": "장서연9"
+    },
+    "0a87b1a5ed0fe4eaa45335fa6102e6e8": {
+      "current_ipv6": "2601:db80:bd05:8000a::000a:0002",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "per-hanlim-00010",
+      "name": "임수아10"
+    },
+    "df7d28eff0d0999ada8f4e5069228152": {
+      "current_ipv6": "2601:db80:bd05:8000b::000b:0002",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "per-hanlim-00011",
+      "name": "김민준11"
+    },
+    "f078c9136f1d6accfd373b5f0f535af5": {
+      "current_ipv6": "2601:db80:bd05:8000c::000c:0002",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "per-hanlim-00012",
+      "name": "이서준12"
+    },
+    "7eb3e3d863f48ce1cc1673aa8863f3bd": {
+      "current_ipv6": "2601:db80:bd05:8000d::000d:0002",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "per-hanlim-00013",
+      "name": "박예준13"
+    },
+    "cff19a5ae2f8cd4eb5563f22316e3b6b": {
+      "current_ipv6": "2601:db80:bd05:8000e::000e:0002",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "per-hanlim-00014",
+      "name": "최도윤14"
+    },
+    "5cf65dd6a1e051b3f906746bfc31ca3b": {
+      "current_ipv6": "2601:db80:bd05:8000f::000f:0002",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "per-hanlim-00015",
+      "name": "정시우15"
+    },
+    "b8b3d2bd0d0b07d4692ff699f683e536": {
+      "current_ipv6": "2601:db80:bd05:80010::0010:0002",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "per-hanlim-00016",
+      "name": "강하준16"
+    },
+    "f13386d8a047ff0f993b1e55ec5a3ccb": {
+      "current_ipv6": "2601:db80:bd05:80011::0011:0002",
+      "l1_node": "KR-JEJU-JEJU-HANLIM",
+      "guid": "per-hanlim-00017",
+      "name": "조지호17"
+    }
+  }
+}

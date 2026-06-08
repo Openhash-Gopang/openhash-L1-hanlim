@@ -1,0 +1,59 @@
+{
+  "ofp_version": "1.0",
+  "node_id": "KR-JEJU-JEJU-HANLIM",
+  "node_level": 1,
+  "node_name": "한림읍 L1 노드",
+  "parent_node": "KR-JEJU-JEJU",
+  "platform": "gopang.net",
+  "admin_contact": "admin@gopang.net",
+  "jurisdiction": {
+    "country": "KR",
+    "region": "제주특별자치도",
+    "city": "제주시",
+    "district": "한림읍",
+    "legal_districts": [
+      "귀덕리",
+      "금능리",
+      "금악리",
+      "대림리",
+      "동명리",
+      "명월리",
+      "상대리",
+      "수원리",
+      "월령리",
+      "저지리",
+      "한림리",
+      "한수리",
+      "협재리",
+      "옹포리"
+    ],
+    "population_target": 21156,
+    "entity_target": 1000,
+    "bbox": {
+      "lat_min": 33.35,
+      "lat_max": 33.45,
+      "lng_min": 126.21,
+      "lng_max": 126.31
+    }
+  },
+  "endpoints": {
+    "routing_table": "https://l1-hanlim.openhash.kr/routing_table.json",
+    "nickname_cache": "https://l1-hanlim.openhash.kr/nickname_cache.json",
+    "entity_base": "https://l1-hanlim.openhash.kr/entities/",
+    "blocks": "https://l1-hanlim.openhash.kr/blocks/genesis.json"
+  },
+  "gduda_proxy": "https://gopang-proxy.tensor-city.workers.dev/pdv/",
+  "supabase_backend": "https://ebbecjfrwaswbdybbgiu.supabase.co",
+  "phase": 1,
+  "phase_description": "Supabase 단일 DB + GitHub Pages 노드 (Phase 1 파일럿)",
+  "phase_next": "Phase 2 — 제주도 전체 확장, 하이브리드 GDUDA",
+  "modules_supported": [
+    "OFP-DISCOVER",
+    "OFP-MSG"
+  ],
+  "public_key": {
+    "type": "ECDSA-P256",
+    "note": "Phase 1 미구현 — Phase 2에서 도입 예정"
+  },
+  "updated_at": "2026-06-08T00:00:00Z"
+}
